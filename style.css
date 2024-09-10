@@ -606,7 +606,7 @@ br {
     width: 83%;
     height: 95%;
     border-radius: 18px;
-    background-image: url(img/grapic-banner-2.jpg);
+    background-image: url(grapic-banner-2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -620,7 +620,7 @@ br {
     width: 83%;
     height: 95%;
     border-radius: 18px;
-    background-image: url(img/home_banner_1.jpg);
+    background-image: url(home_banner_1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
